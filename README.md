@@ -6,6 +6,7 @@ Python game with Python
 * Library 
   * pygame
 * Image
+
 ![play](https://github.com/seungminKim1/pygame/blob/master/play.PNG)  
 ---------------
 # How to play
