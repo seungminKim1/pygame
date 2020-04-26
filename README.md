@@ -6,7 +6,7 @@ Python game with Python
 * Library 
   * pygame
 * Image
-  
+![play](https://github.com/seungminKim1/trashCan/blob/pygame/play.PNG)  
 ---------------
 # How to play
 * 방향키로 움직임 조작
